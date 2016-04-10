@@ -1,3 +1,3 @@
 # hello-world
-hello-world repository
-I'm Sarah.
+<em>hello-world repository</em><br>
+<strong>I'm Sarah.</strong>
